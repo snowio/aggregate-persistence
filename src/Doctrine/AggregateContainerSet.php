@@ -6,7 +6,6 @@ use AggregatePersistence\Exception\AggregateNotFoundException;
 use AggregatePersistence\Exception\AggregatePersistedWithMultipleIdsException;
 use AggregatePersistence\Exception\AggregateIdCollisionException;
 use ProxyManager\Proxy\VirtualProxyInterface;
-use Snowball\Platform\Organisation\Implementation\User;
 
 /**
  * @internal
