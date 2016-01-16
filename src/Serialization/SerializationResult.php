@@ -6,7 +6,7 @@ class SerializationResult
     private $serializedAggregate;
     private $serializedMetadata;
 
-    public function __construct(string $serializedAggregate, string $serializedMetadata)
+    public function __construct(string $serializedAggregate, string $serializedMetadata = '')
     {
         $this->serializedAggregate = $serializedAggregate;
         $this->serializedMetadata = $serializedMetadata;
