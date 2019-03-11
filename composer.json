@@ -1,5 +1,5 @@
 {
-    "name": "joshdifabio/aggregate-persistence",
+    "name": "snowio/aggregate-persistence",
     "require": {
         "php": ">=7.0",
         "doctrine/common": "^2.6",
