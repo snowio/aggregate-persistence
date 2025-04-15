@@ -6,7 +6,7 @@
         "ocramius/proxy-manager": "^1.0"
     },
     "repositories": [
-        {"type": "composer", "url": "https://repo.packagist.com/snowio/"},
+        {"type": "composer", "url": "https://repo.packagist.com/idhl/snowio/"},
         {"packagist.org": false}
     ],
     "require-dev": {
